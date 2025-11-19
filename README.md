@@ -118,9 +118,10 @@ git push origin feature/your-feature
 ## 🌍 Contact
 
 
-📧 Email: sujaybabutumu@gmail.com<br>
-🐙 GitHub: [@sujay](https://github.com/sujaytumu)<br>
+📧 Email: ravuruyasaswini119@gmail.com<br>
+🐙 GitHub: [@yasaswini]([https://github.com/sujaytumu](https://github.com/yasaswiniravuru))<br>
 
 <p align="center">
   <b>Built with clarity for classrooms. 🎓</b>
 </p>
+
